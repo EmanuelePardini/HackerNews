@@ -1,6 +1,6 @@
 # Hacker News Web App
 
-![Hacker News Screenshot](screenshot.png)
+![Hacker News](src/images/screenshot.png)
 
 ## Description:
 
