@@ -34,17 +34,4 @@ Hacker News Web App is a web application that allows users to browse the latest 
 ## Author:
 
 This web app was created by [Emanuele Pardini](http://emanuelepardini.altervista.org/).
-
-## License:
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contribution:
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvement, feel free to submit a pull request.
-
-## Contact:
-
-If you have any questions or inquiries, you can contact the author at [email@example.com](mailto:email@example.com).
-
-Enjoy using the Hacker News Web App!
+Enjoy!
