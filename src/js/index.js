@@ -35,7 +35,7 @@ function renderNews(news) {
       <p>Published: ${new Date(news.time * 1000).toLocaleDateString()}</p>
     `;
   } else {
-    // Handle the case when news.url is undefined
+    //Gestione dei link mancanti sugli articoli
     newsElement.innerHTML = `
       <h3>${news.title}</h3>
       <p>Published: ${new Date(news.time * 1000).toLocaleDateString()}</p>
